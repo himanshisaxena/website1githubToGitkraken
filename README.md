@@ -2,7 +2,7 @@
 
 I like [Coding](https://home.hackyourfuture.be/curriculum/precourse)  
 **I am from India and currently living in Brussels with my husband since 2014.**  
-My hobbies are listening to [travelling](https://hackyourfuture.be/)  
+My hobbies are traveling and listening to [music](https://hackyourfuture.be/)  
 Here's [a link of my strengths ] [hard worker].  
 Here's [positive thinker].  
 And now back to [the first link][hard worker].  
