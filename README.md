@@ -9,7 +9,7 @@ And now back to [the first link][hard worker].
 
 [hard worker]: https://www.youtube.com
 [positive thinker]: www.google.com
-![HYF](../HYFimage.jpg)
+![HYF](./images/HYFimage.jpg)
 
 >"I choose this field of study because I have an interest towards technology and programming. My hobbies are listening to songs and travelling."
 
